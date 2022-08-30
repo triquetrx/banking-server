@@ -1,4 +1,4 @@
-package com.cognizant.mfpe;
+package com.cognizant.bankingserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
